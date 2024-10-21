@@ -1,15 +1,21 @@
 
-
-# Hi, I'm Priya!
-
-## About Me
-I am a **Data Analyst** with a Master's in Mathematics 🎓, which has sharpened my problem-solving skills. I'm a fast learner. I’m passionate about turning data into actionable insights and love working with **Excel** and **Power BI** to create compelling reports. 
-
-I enjoy diving into the numbers and finding the hidden treasures behind them.
+<h1 align="center">Hi, I'm Priya Jangid!</h1>
+<h3 align="center">An Aspiring Data Analyst</h3>
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/priya-jangid2018)
-[![Gmail](https://img.shields.io/badge/Email-Gmail-red)](mailto:jangiddpriya@gmail.com)
+                   
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Jangid-blue)](https://www.linkedin.com/in/priyajangid2018)
+[![Gmail](https://img.shields.io/badge/Gmail-jangiddpriya%40gmail.com-red)](mailto:jangiddpriya@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-jangid20&label=Profile%20views&color=0e75b6&style=flat" alt="priya-jangid20">
+
+## About Me
+
+- 🎓 **Data Analyst** with a Master's in Mathematics, where numbers and I developed a pretty deep relationship.
+- 📊 Passionate about transforming raw data into actionable insights.
+- 💡 Skilled in **Excel** and **Power BI** for crafting reports that don't just show numbers, but actually tell you what they mean.
+- 🔍 Love digging into the data, uncovering hidden patterns.
+- 🚀 Constantly seeking opportunities to solve real-world problems with data, one dashboard at a time.
+- ⚡ Fun fact - **I am a fast learner**
 
 ## Skills
 
