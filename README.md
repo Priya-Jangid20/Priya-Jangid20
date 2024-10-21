@@ -1,5 +1,4 @@
-![Banner]([https://example.com/banner-image.png](https://eu-images.contentstack.com/v3/assets/blt892f41c9788ae399/bltee7b370c6db43c7e/65eedcfda70f0f040a82697e/data_analyst_portfolio_preview.jpg)) 
-<!-- Replace the above URL with the link to your banner image -->
+
 
 # Hi, I'm Priya!
 
