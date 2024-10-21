@@ -4,8 +4,8 @@
 
 ## Connect with Me
                    
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Jangid-blue)](https://www.linkedin.com/in/priyajangid2018)
-[![Gmail](https://img.shields.io/badge/Gmail-jangiddpriya%40gmail.com-red)](mailto:jangiddpriya@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priya%20Jangid-blue)](https://www.linkedin.com/in/priya-jangid2018)
+[![Gmail](https://img.shields.io/badge/Gmail-jangiddpriya@gmail.com-red)](mailto:jangiddpriya@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-jangid20&label=Profile%20views&color=0e75b6&style=flat" alt="priya-jangid20">
 
 ## About Me
