@@ -32,6 +32,4 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&v=true&height=70&duration=5500&lines=Thanks+For+Stopping+By!;+Have+a+Nice+Day✨;" />
 </h2>
 
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping +by!;+Have+a+Good+ Day;" />
-</h3>
+
