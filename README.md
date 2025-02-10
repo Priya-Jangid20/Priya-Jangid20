@@ -7,7 +7,7 @@
 
 - 🎓 **Data Analyst** with a Master's in Mathematics, where numbers and I developed a pretty deep relationship.
 - 📊 Passionate about transforming raw data into actionable insights.
-- 💡 Skilled in **Excel** and **Power BI** for crafting reports that don't just show numbers, but actually tell you what they mean.
+- 💡 Skilled in **Excel**, **Power BI**, **SQL** and **Python** for crafting reports that don't just show numbers, but actually tell you what they mean.
 - 🔍 Love digging into the data, uncovering hidden patterns.
 - 🚀 Constantly seeking opportunities to solve real-world problems with data, one dashboard at a time.
 - ⚡ Fun fact - **I am a fast learner**
